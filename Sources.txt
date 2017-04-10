@@ -1,0 +1,8 @@
+Sources
+
+https://www.tutorialspoint.com/sqlite/
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+https://docs.python.org/2/library/re.html
+Referenced stack overflow when I ran into programming problems, but do not have specific links
+https://discussions.udacity.com/t/creating-db-file-from-csv-files-with-non-ascii-unicode-characters/174958
+
