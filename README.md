@@ -1,7 +1,8 @@
 # Wrangle-OpenStreetMap-Data
+
 ## Introduction
 
-
+The goal of this project was to extract data from https://www.openstreetmap.org (open source database similar  to Google Maps) for an area of the world I am interested in. I then assessed the quality of the data for validity, accuracy, completeness, consistency and uniformity. Finally I imported the data into a SQL database for further querying and auditing. 
 
 ## Final Analysis
 Below is a blocks link that demonstrates the data cleaning process and database queries. 
@@ -33,18 +34,20 @@ schema.py
 SQL queries to explore database
 ```{r}
 sql_query.py
+```
 
 Discover structure and number of tags in OSM file
 ```{r}
 map_parser.py
 ```
 
-```
 High level audit of tags for types of potential problems
+
 ```{r}
 tags.py
 ```
 Function to discover number of users
+
 ```{r}
 users.py
 ```
