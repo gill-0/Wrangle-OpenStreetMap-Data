@@ -4,8 +4,8 @@
 
 The goal of this project was to extract data from https://www.openstreetmap.org (open source database similar  to Google Maps) for an area of the world I am interested in. I then assessed the quality of the data for validity, accuracy, completeness, consistency and uniformity. Finally I imported the data into a SQL database for further querying and auditing. 
 
-## Final Analysis
-Below is a blocks link that demonstrates the data cleaning process and database queries. 
+##Data Extraction, Cleaning, and Database Queries
+Below is a blocks link that demonstrates the data extraction and cleaning process as well as database queries. 
 
 http://bl.ocks.org/gill-0/raw/9c92a05cc3492a6e4985e3ce2565e801/
 
